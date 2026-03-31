@@ -1,0 +1,3 @@
+ComputerName,Engine,Detected,Notes
+APP-SERVER-01,Oracle,True,Oracle registry keys detected
+APP-SERVER-01,SQL Server,True,SQL Server registry keys detected

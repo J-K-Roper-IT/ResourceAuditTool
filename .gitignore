@@ -1,3 +1,6 @@
 output/
 *.csv
 *.json
+!sample-output/
+!sample-output/*.csv
+!sample-output/*.json

@@ -1,0 +1,3 @@
+ComputerName,SiteName,State,PhysicalPath,ApplicationPool
+APP-SERVER-01,Default Web Site,Started,C:\inetpub\wwwroot,DefaultAppPool
+APP-SERVER-01,App Portal,Started,D:\Apps\Portal,PortalAppPool

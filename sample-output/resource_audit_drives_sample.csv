@@ -1,0 +1,3 @@
+ComputerName,Drive,VolumeName,SizeGB,FreeGB,UsedGB,FreePercent
+APP-SERVER-01,C:,System,250,118.4,131.6,47.36
+APP-SERVER-01,D:,Data,500,221.75,278.25,44.35

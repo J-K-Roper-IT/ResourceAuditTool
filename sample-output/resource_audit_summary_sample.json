@@ -1,0 +1,16 @@
+{
+  "GeneratedAt": "2026-03-30T15:30:00",
+  "ComputerName": "APP-SERVER-01",
+  "Machine": {
+    "ComputerName": "APP-SERVER-01",
+    "Manufacturer": "VMware, Inc.",
+    "Model": "VMware Virtual Platform",
+    "MachineType": "VM",
+    "TotalMemoryGB": 32
+  },
+  "DriveCount": 2,
+  "AuditedPathCount": 2,
+  "IisSiteCount": 2,
+  "DatabaseSignals": 2,
+  "ExcelExportRequested": true
+}
